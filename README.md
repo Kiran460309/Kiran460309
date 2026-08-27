@@ -135,13 +135,13 @@ Over the course of my internship, I contributed across:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiran460309&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiran460309&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Kiran460309&icon=0&color=0" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kiran460309&color=brightgreen" />
 </p>
 
 <p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
