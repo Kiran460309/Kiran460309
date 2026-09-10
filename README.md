@@ -113,7 +113,7 @@ Over the course of my internship, I contributed across:
 - I'm slightly addicted to social media
 - Gardening is my zen time
 - I love to cook (and eat)
-- I enjoy creating things
+- I enjoy creating thing s 
 - Dr. V. Irai Anbu, I.A.S. (Retired) Sir — my mentor and an inspiring guide
 - I drink a lot of tea
 - I can lose track of time reading docs I didn't even need to read
