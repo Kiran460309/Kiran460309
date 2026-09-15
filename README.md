@@ -135,7 +135,7 @@ Over the course of my internship, I contributed across:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiran460309&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kiran460309&theme=dark&no-bg=true" />
 </p>
 
 ---
